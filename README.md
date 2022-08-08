@@ -27,7 +27,7 @@ Applying Metadata Tags for TIFF & JPEG files
 * copy the "exiftool.exe" file in the tool path
 * copy the "tag.ini" file in the tool path
 * Metadata Tag values should capture in the "tag.ini" file in respective xml tags
-* If no value for particular element then leave that tag as empty tag, i.e. '<Scanner></Scanner>'
+* If no value for particular element then leave that tag as empty tag, i.e. ```<Scanner></Scanner>```
 * TIFF date & time value format should be "YYYY:MM:DD HH:MM:SS", if format is wrong tool notify the error message in "error.log" file.
 
 ## Version History
