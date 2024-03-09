@@ -1,4 +1,4 @@
-# Project Title
+# Application Title
 
 Applying Metadata Tags for TIFF & JPEG files
 
