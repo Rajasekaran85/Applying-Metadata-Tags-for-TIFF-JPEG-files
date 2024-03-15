@@ -12,7 +12,7 @@ Applying Metadata Tags for TIFF & JPEG files
 
 ### Dependencies
 
-* Windows 7
+* Windows 7 or above
 
 ### Installing
 
